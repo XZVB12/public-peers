@@ -3,13 +3,14 @@
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
-* Ulvila, Tavu Cloud, operated by [ano](https://github.com/ano0)
-  * `tcp://185.87.111.202:8080`
+* Helsinki, Creanova Hosting, operated by [samip537/samip5](https://samip.fi)
+  * `tcp://edge.v4.hel1.devices.y.samip.fi:65444`
+  * `tcp://edge.v6.hel1.devices.y.samip.fi:65444`
+  * `tls://edge.v4.hel1.devices.y.samip.fi:65445`
+  * `tls://edge.v6.hel1.devices.y.samip.fi:65445`
 
-* Ulvila, Tavu Cloud, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
-  * `tcp://185.87.111.218:60384`
-  * `tcp://[2a05:b9c0::1:0:d3]:60384`
-
-* Tuusula, Hetzner, operated by [sin](https://2f30.org)
-  * `tcp://95.216.146.86:12080`
-  * `tcp://[2a01:4f9:c010:afa::2f30]:12080`
+* Turku, Datatekniikka (colo), operated by [samip537/samip5](https://samip.fi)
+  * `tcp://edge.v4.tku1.devices.y.samip.fi:65444`
+  * `tcp://edge.v6.tku1.devices.y.samip.fi:65444`
+  * `tls://edge.v4.tku1.devices.y.samip.fi:65445`
+  * `tls://edge.v6.tku1.devices.y.samip.fi:65445`
