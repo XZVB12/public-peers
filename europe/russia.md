@@ -6,6 +6,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 * Moscow, standalone server
   * `tcp://194.177.21.156:5066`
+  * `tls://194.177.21.156:5068`
   
 * [Network neighborhood](https://netwhood.online/) public node, Moscow Oblast, Podolsk, ALDIS Telecom Ltd. [Feedback contacts](http://netwhood.online/feedback/). Operated by [abslimit](https://mstdn.netwhood.online/@abslimit)
   * `tcp://46.151.26.194:60575`
@@ -51,4 +52,5 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://176.215.237.83:2756` - RU-IRK-HOST-E52B
 
 * Moscow, home public node, operated by [TomasGl](https://vk.com/tmsconsole)
-  * `tcp://95.165.99.143:61933`
+  * `tcp://vps.tomasgl.ru:61933`
+  * `tls://vps.tomasgl.ru:61944`
